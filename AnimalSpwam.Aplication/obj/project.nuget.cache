@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dJFxPznustH+GPITLeU4g9qh62kZ7adpCyGCtjjtwgsIJpdPYO9S0sUxxAQHxy25tTPnc6nCFApBiTD0P6g2ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fernando\\Desktop\\UTM\\Cuatrimestre 4\\Aplicacion Web Orientada a Servicios\\Parcial 1\\AnimalSpawn\\AnimalSpwam.Aplication\\AnimalSpwam.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
